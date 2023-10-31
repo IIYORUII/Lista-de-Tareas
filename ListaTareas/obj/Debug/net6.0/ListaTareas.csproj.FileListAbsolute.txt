@@ -1,0 +1,14 @@
+Z:\PROYECTOS\C#\ListaTareas\ListaTareas\bin\Debug\net6.0\ListaTareas.exe
+Z:\PROYECTOS\C#\ListaTareas\ListaTareas\bin\Debug\net6.0\ListaTareas.deps.json
+Z:\PROYECTOS\C#\ListaTareas\ListaTareas\bin\Debug\net6.0\ListaTareas.runtimeconfig.json
+Z:\PROYECTOS\C#\ListaTareas\ListaTareas\bin\Debug\net6.0\ListaTareas.dll
+Z:\PROYECTOS\C#\ListaTareas\ListaTareas\bin\Debug\net6.0\ListaTareas.pdb
+Z:\PROYECTOS\C#\ListaTareas\ListaTareas\obj\Debug\net6.0\ListaTareas.GeneratedMSBuildEditorConfig.editorconfig
+Z:\PROYECTOS\C#\ListaTareas\ListaTareas\obj\Debug\net6.0\ListaTareas.AssemblyInfoInputs.cache
+Z:\PROYECTOS\C#\ListaTareas\ListaTareas\obj\Debug\net6.0\ListaTareas.AssemblyInfo.cs
+Z:\PROYECTOS\C#\ListaTareas\ListaTareas\obj\Debug\net6.0\ListaTareas.csproj.CoreCompileInputs.cache
+Z:\PROYECTOS\C#\ListaTareas\ListaTareas\obj\Debug\net6.0\ListaTareas.dll
+Z:\PROYECTOS\C#\ListaTareas\ListaTareas\obj\Debug\net6.0\refint\ListaTareas.dll
+Z:\PROYECTOS\C#\ListaTareas\ListaTareas\obj\Debug\net6.0\ListaTareas.pdb
+Z:\PROYECTOS\C#\ListaTareas\ListaTareas\obj\Debug\net6.0\ListaTareas.genruntimeconfig.cache
+Z:\PROYECTOS\C#\ListaTareas\ListaTareas\obj\Debug\net6.0\ref\ListaTareas.dll
